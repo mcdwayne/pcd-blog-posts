@@ -1,0 +1,23 @@
+The Value Of Defining Done
+
+
+In my time working with various teams on various projects one simple fact emerged throughout. This central truth helped set apart chaos from refined process and from disastrous results from very happy stakeholders. The very simple formula, that all too many projects and teams fail to implement is the definition of Done for each and every step along the way.
+
+To be clear, I am not just talking about the final completion 'acceptance criteria' for a complex project. That is, for sure, mission critical and gives us a guiding light to organize all of our backlog prioritization and sprint work. I am talking about encoding a Done state definition for each and every task that you track on the way to that final destination.     
+
+For example, if I have a Kanban system (like Trello or Asana) and the overall project is to publish a new landing page for an upcoming product launch, one card in my Backlog might be "create copy for the page." While this sounds simple enough on the surface, anyone who has taken on such a task quickly learns that there are a lot of factors to consider.
+
+If I turn in 3000 words and the designer really only anticipated 100 words, there is going to be frustration all about. If I don't refer to the benefits in terms the current user base as well as new prospects appreciate, that too is going to cause friction and poor results. If however, as a normal part of the process, first set out to define what Done means for this task through a little research and set a clear visible statement about my work others on the team can see, we can course correct very quickly and before we get too far with our efforts.  
+
+What would put me in a much better position for success in this instance is a  starting declaration that "Done = As a copywriter I will produce between 300 and 350 words of copy that define the value of the new offering, as defined by the new technical specs, to new and existing users by this task's due date and deliver it in the project folder as a Google Document." Now, anyone involved in the project knows my plan and can communicate with me any changes needed.
+
+It also makes it much simpler to delegate tasks overall. If a project manager has insight into the work at this much more nuanced level, then adjusting the game plan becomes more science than art and takes a lot of guesswork away, allowing for better and more consistent results.  
+
+It is not just large teams that benefit from the power of the Done statement.  Even teams of one can leverage this simple process change to better organize their task lists and priorities. For instance, my Done statement for writing this blog post was "Done = I, as the head of Process Digital Consulting, will produce around 750 words on the value of using Done statement by the end of the day and publish it on LinkedIn."  It felt very good to know what I'm shooting for when I started today and this informed me that I should put this in my morning as my travel schedule might not allow me to reach my goal if I got too late a start. Happy to say that if you are reading this on LinkedIn that I succeeded.  
+
+While there are multiple ways to write a Done statement, the one that I like the best uses the formula "Done = I as the task doer will do specifically X (task) by Y (date) and any artifacts of my work will be stored in Z (folder/file location)." The more detailed the better and yes, sometimes a simple task only requires a simple statement.  Of course, you should feel empowered to modify that formula for what works best for you and your organization.  
+
+Writing done statements might seem like an easy to skip step on a lot of tasks, but once you get in the habit, it becomes clear that any size task benefits from defining what Done means earlier. It helps teams communicate and gets to better results faster for everyone involved.  Once you adopt this step into your process you will wonder how you got to Done without it.  
+
+
+If you want to evolve your processes, I would be happy to talk to you.  Reach out today at dwayne@processdigitalconsulting.com to start the conversation!  

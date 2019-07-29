@@ -1,0 +1,45 @@
+The Taletale Symtoms Of Unhealthy Processes
+
+I think it would be hard to find someone that wouldn't generally agree that discovering and solving inefficiencies in internal processes and workflows would be beneficial. But very rarely have heard anyone actually say, "Boy, we sure could use some process management to fix this marketing or development issue." 
+
+Instead, people will often list grievences around the symptoms of broken process. And instead of digging in and looking for a root cause, they misdirect their focus into a new tool or technology to try to save the day. While there are a lot of amazing tools that can help eliviate symptoms, until the underlying issues get resolved, it more or less just adds another layer that eventually adds to the inefficency and causes more frustration. 
+
+Working with a lot of teams and on a lot of projects over the years I have observed some taletell signs that a process adjustment might be in order. While not an exhaustive list I want to share some of the most common symptoms people complain about that signal a review of processes might be in order. 
+
+1. "If only I could get some of these tasks off my plate so I could focus."
+
+  While it is true that if we have less things to worry about we can devote more time to one area, that is not the reality the modern business world allows.  What we need here is better priority management.  What I think this person is really saying is "I am not sure which of these tasks has real business value, so I am going to spread myself thin and be frustrated." 
+  Having a clear way to weight goals and priorities is helpful in a lot of ways. A clear repeatable meachanism to prioritize requests empowers everyone to keep a clear, sharp focus on what matters most for the business. That clarity relives a lot of stress, as not every idea is going to be one that needs the same ammount of focus and energy.  
+
+2. "I am so burried I can't document things."
+
+ The critical steps of clearly defining a task and the route you plan to take to accomplish that task is often the first parts of a process to get abandonded when we are in a hurry. While it is easy to create a new Trello card for instance, it sometimes feels cumbersome to fill in each and every field and write our plan down.  This leads to a self perpetuating cycle that ends in isolation for team members and can cause real crisis when that one person has a life change or leaves the organization.   
+ 
+ Now, we all get overwhelmed from time to time with taking on too much. If you are working completely alone or with a group in a similar situation, then sometimes you just need tp grit your teeth and work through it.  Most of the time though, there are others who can be tapped to help distribute the work. That is one of the points of working with a team in the first place. However, if you are not documenting what need done and possible ideas on how to go about those tasks, then even more meetings are going to be needed and more hours spent refining those requests for help. A simple, repeatable process step followed every task, every time can greatly reduce this fruction and get any team's stress level back down  
+
+
+3. "It seems we are getting less done with more people these days."
+
+ I have worked with very small teams and vvery large teams now and there certainly is some truth to the old saing "if you want to go fast, go alone, if you want to go far, go together." However, I see a lot of teams not just slow down but also lose momentum and sometimes even lose course as the head count increase.  There are a number of factors and circumstances that contribute here, but the teams I have seen actually accelerate growth and stay focused have been the ones with the clearest and best understood processes.  
+
+ The more bespoke onboarding, knowledge sharing and well, any repeatable process is, the slower any new team member is going to produce value. This 'everything as a one off' approach means that a natural system emerges that more and more team time is spent helping the new folks get up to speed to the point where it become a distraction and can actually end up shifing priorities for some of the historically most prouctive employees. Having a thought through and mapped out set of standard and scalable processes that anticipate new members has been one of the largest contributing factors to successful company growth I have witnessed.   
+
+
+4. "I hate writing/entering things twice."
+
+ If you are imputing data or upates into multiple places it is a very good idea to step back and ask why. I think this is clarly a sign of a team trying to throw technology at a problem rather than finding the underlying cause. Often the root cause is becuase multiple people need that data in slightly differeing ways. And rather than take the time to identify a source of truth and who should be the stakeholder in charge off that source of data and how it flows to other systems and teams, it is 'faster' to shift the burden to the users of both systems. Asking the question of 'who is really in charge of this process' will often lead to an answer of no one, and no amount of technology can fix this underlying issue. Understandin who the stakeholders are in any process is critical to team success.   
+
+
+5. "It is all in my head so clarly I don't need to write down a formal plan."
+
+ While certaily related to number 2 above, this points to another common issue. On very small teams, or teams of one, it is common for individuals to become shte source of 'tribal knowldge' truth. There is a sense of power that comes from this and as people we have a natural and understandable tendency to want to keep that power. However, this leads to a bottleneck where every question can only be answered by this one knowedge gatekeeper. Worse yet, this 'master plan' in their heads is very likely to shift as new information is uncovered. In that case, instead of the team acting together to adjust a strategy to keep aligned with business goals, it is easy for the plan to shift in a direction that protects the indiviudal's best interest. Having a system in place to get plans and strategies communicated widely and clearly eliminaes these silos of information and empowers everyone, including that indiudal to do more grea things together.    
+
+6. "We need to move faster but I don't see how."
+ 
+ Sometimes it feels that no matter how fast we try to go, it does not seem like we are making much process towards our goals. This is a very, very common issue I have seen in so many organiztions.  The root cuase here is that the systems and processes that made them successful up to a point have become weights around their necks as they have grown. A dedication to the 'way we have always one it' stiffles innovation and growth in very real ways.  If your team has not taken a wholisti look at how it internally communicates and how the internal processes work in a year or two, maybe it is time to take a big step back and ask yourself some tough questions.  There is no one size fits all magic solution for better process management, but there are some best practices and proven methodologies that I believe all organiztions can adopt and adapt for growth and success. 
+
+Have you ever found youtself or team members saying these or similar things? Is the volume of these frustrated murmers seemingly only getting louder?  If so, then it is likely time to think about your highest level goals and revamp processes to make sure everyone is aligned to be successful to hit those goals.  The first step to fixing any issue is identifying the root cause rather than just trying to sooth the symptoms.
+
+--
+
+If you want to evolve your processes, I would be happy to talk to you. Reach out today at dwayne@processdigitalconsulting.com to start the conversation! 

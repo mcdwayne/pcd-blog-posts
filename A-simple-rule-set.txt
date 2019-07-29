@@ -1,0 +1,35 @@
+A Simple Rule Set For A Complex Game
+
+One analogy I use quite often when talking about organizational and marketing processes is Magic the Gathering(https://magic.wizards.com/en). If you are not familiar with this colletable card game, Wikipedia decribes it like this: "Each game of Magic represents a battle between wizards known as planeswalkers who cast spells, use artifacts, and summon creatures as depicted on individual cards in order to defeat their opponents, typically, but not always, by draining them of their 20 starting life points." 
+
+There are many thousands of indidual cards and near infinite number of combinations to play.  Each card has it's own rules and some even modify how the game itself wworks.  Sounds like a perfect recipe for complete chaos. It also sounds a lot like many teams' Kanban or sprint planning boards.  
+
+So how do players keep track of what is going on and how do people play so many games so quickly and with complete clarity of all that is happening? The answer is actually rather simple, there are only 5 steps for each and every players turn of the game.  These steps are so simple and straightforward that they only take playying a single game to learn and no matter how complex or advanced you got as a player, they will always remain constant. If you are interested in those steps, there is a great article that goes into detail here: https://mtg.gamepedia.com/Turn_structure
+
+The most successful projects I have been involved with have something very similar.  A backing 'how to use this board/system' ruleset that is public, clear and consise. For Kanban based projests, that leverage tools like Trello or Asana, I have seen a base rule set of 4 rules take individual organization members from competing information silos to well ordered functional teams efficiently delivering results, and with way less stress.  
+
+The 4 rules, as I define them, are 
+ - 1) Every task must have a clear Objective
+ - 2) Every task has a single Owner
+ - 3) Every task must have a Due Date
+ - 4) Every task must have a "Done" state defined
+   
+Let's talk about each of these briefly.  
+
+1. Every task must have a clear Objective
+The Objective tells is the Why and the What about the task at hand. It should be clear enough that anyone who encounters the task can understand the request without much need for clarification.  For example, on the task of writing this blog post, the Objective I wrote was "Create blog post as part of my daily blogging series explaining the 4 rules for organizing a Kanban board". Now you might have questions about why I am trying to blog daily or about the content itself, but the objective of the task itself is as clear as I could make it.
+
+2. Every task has a single Owner
+This one comes down to accountability. We need one, and only one, person to be on the hook for getting it done and maintining communication about the task at hand. Having multiple people, or worse yet, a comittee, in charge of task will always result in shifting blame and blurry unclear communication for projects.  Comittees can get things done via democracy and over the life of a project deciding what priorities need to take precident and how various tasks are creats do require a group discussion. But once any tasks are created, a single stakeholder who will held responsible for the task being done or not will always get better and clearer results.
+
+3. Every task must have a Due Date
+I believe that all dates are abitrary but mandatory for any system to work.  By that I mean setting target date goals for completing tasks informs every other part ofthe organization when deilverables will be delivered, but as tasks shift Due Dates are the most malliable part of the task itself.  Unless the mission will fail if not delivered at a Drop Dead date it is far more important to communicate the now current estimate to all other players than it is to abide by it blindly.  
+
+4. Every task must have a "Done" state defined
+This might be the most critical piece of the puzzle. In short, unless we know when we are done with the task, every task runs the risk of scope creep and mileading people with false expectations of what will be delivered.  In a previous article I eexpounded on the value of done, which you can rread here: https://www.linkedin.com/pulse/value-defining-done-dwayne-mcdaniel/
+
+I know this might sound like a 'one size fits all' miracle solution, but I have seen it work for multiple teams.  Some teams expanded it out to include rules for creation of subtasks and checklists and some teams have added naming convention rules as the teams became more cross departmental.  But at the core, every variation of a successful project and process management system has adhered to a simple, repeatable set of rules that let the team do great and complex things with a lot less friction.  
+
+--
+
+If you want to evolve your processes, I would be happy to talk to you. Reach out today at dwayne@processdigitalconsulting.com to start the conversation! 
