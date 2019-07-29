@@ -1,0 +1,13 @@
+A Time For Meetings
+
+Have you ever looked at your schedule and realized that 80%+ of your day was going to be in back to back meetings?  Most of us have been there, especially if we work with multiple teams on multiple projects. I raises a questions of "when am I actually going to have time to get 'real' work done?"  The answer to that is way too often longer hours and weekends.  
+
+I think this is a symptom of a larger issue. In and of itself, meetings can be the fastest way to convey complex situations, align multiple team members and plan for next phase of work. However, a lot of meetings don't hold up to those noble aspirations and end up, at best, distractions from providing real client value.  
+
+I am not here to argue that you should toss out meeting all together. Instead I am calling for a better plan for how meetings fit into the project from the start, as well as asking meeting organizers to approach meetings as the necessary time sinks they are rather than 'how we do things around here.'
+
+When a project first kicks off, I think that is the time to plot out what all meetings need to look like. It might not make sense to put tentative times on the schedule as a result, but what should be solidified are types of acceptable meetings and the specific goals of each one.  This is one of the reasons Agile methodologies, like Scrum and Kanban are so popular in the development world.  
+
+Those methodologies come pre-packaged with the 'ceremonies' like sprint planning, stand ups, review and retrospective.  While there is nothing wrong with using a premade formula out of the box, for a lot of marketing and business processes, trying to apply the software development best practices directly ends up being confusing and frustrating. Worse yet the process becomes a scapegoat when results don't materialize.  
+
+If we look at those agile ceremonies as inspiration of an ideal system and try to understand the logic behind the parts, wee can start to see a pattern emerge that is all about one key component, communication. So with that in mind, looking ahead to any project in the backlog should come with a planning phase that 
